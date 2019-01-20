@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ICS18_NetworkLab_CodeSkeleton.dir/client.c.o CMakeFiles/ICS18_NetworkLab_CodeSkeleton.dir/csapp.c.o CMakeFiles/ICS18_NetworkLab_CodeSkeleton.dir/point.c.o CMakeFiles/ICS18_NetworkLab_CodeSkeleton.dir/server.c.o  -o ICS18_NetworkLab_CodeSkeleton 
